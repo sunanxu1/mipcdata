@@ -1,3 +1,6 @@
+
+git config --global user.name "sunanxu"
+git config --global user.email 1119823523@qq.com
 gits supers$ git remote rm origin
 
 git remote add origin https://github.com/sunanxu1/mipcdata.git
