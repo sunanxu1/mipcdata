@@ -1,0 +1,5 @@
+gits supers$ git remote rm origin
+
+git remote add origin https://github.com/sunanxu1/mipcdata.git
+
+git push -u origin master
